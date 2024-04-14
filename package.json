@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-practices",
+  "version": "1.0.0",
+  "description": "nodejs-practices and mongo, mongose practices js vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pleo2/Nodejs-practices.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pleo2/Nodejs-practices/issues"
+  },
+  "homepage": "https://github.com/Pleo2/Nodejs-practices#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
